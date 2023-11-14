@@ -1,0 +1,15 @@
+{
+  "name": "templateshop",
+  "version": "2.0.0",
+  "description": "ecom app made with MERN stack",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Wyatt B",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
