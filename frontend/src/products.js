@@ -92,7 +92,8 @@ const products = [
         "category": "Mobile Accessories",
         "price": 18.99,
         "countInStock": 15,
-        "rating": 4.2,
+        "rating": 4.6
+        ,
         "numReviews": 25
     },
     {
@@ -104,7 +105,7 @@ const products = [
         "category": "Mobile Accessories",
         "price": 16.99,
         "countInStock": 18,
-        "rating": 4.7,
+        "rating": 3.6,
         "numReviews": 9
     }
 ]
